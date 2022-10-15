@@ -1,4 +1,4 @@
-
+// Interface
 interface Mappable {
     location: {
         lat: number;
